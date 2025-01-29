@@ -1,0 +1,9 @@
+streamlit
+pypdfium2
+pillow
+gdown
+pytesseract
+langchain
+langchain-huggingface
+pandas
+markdown-analysis
